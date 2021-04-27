@@ -1,4 +1,4 @@
-## dx-int-3scale-client
+# 3scale-client
 
 Client 3scale image for automation.
 
@@ -6,4 +6,3 @@ Client 3scale image for automation.
 podman build -t quay.io/eformat/3scale-client
 podman push quay.io/eformat/3scale-client:latest
 ```
-# 3scale-client
